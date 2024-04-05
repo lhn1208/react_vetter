@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.95390edd.css",
-    "main.js": "/static/js/main.eb0558de.js",
-    "static/media/visual_news.jpg": "/static/media/visual_news.497ea834f9ff12442b3f.jpg",
-    "static/media/visual_case.jpg": "/static/media/visual_case.5367a85345a4cdb6c402.jpg",
-    "static/media/visual_board.jpg": "/static/media/visual_board.9992edd839681d2b924d.jpg",
-    "static/media/visual_report.jpg": "/static/media/visual_report.785c13cbf711626dbe28.jpg",
-    "static/media/visual_tip.jpg": "/static/media/visual_tip.98924c1943fb8dc2d5d7.jpg",
-    "static/media/txt_journal.png": "/static/media/txt_journal.86dcdec16274334e2e3c.png",
-    "static/media/banner_right.jpg": "/static/media/banner_right.1c14be8aeaa7858c59f9.jpg",
-    "static/media/ev_sample2.jpg": "/static/media/ev_sample2.35e50920204682a75a14.jpg",
-    "static/media/profile_img.jpg": "/static/media/profile_img.2c93a73dc60be08f1c7d.jpg",
-    "static/media/main_banner.jpg": "/static/media/main_banner.2354d26716dc5b4d46c1.jpg",
-    "static/media/doctor_sample1.png": "/static/media/doctor_sample1.e8732f6362f284ff0f8c.png",
-    "static/media/banner_topic.jpg": "/static/media/banner_topic.37ec051a5969adf3adb2.jpg",
-    "static/media/dog_sample.jpg": "/static/media/dog_sample.6079cc025b15704fbef4.jpg",
-    "static/media/ico_common.png": "/static/media/ico_common.a9ade53b6a050cc1f61a.png",
-    "index.html": "/index.html",
-    "main.95390edd.css.map": "/static/css/main.95390edd.css.map",
-    "main.eb0558de.js.map": "/static/js/main.eb0558de.js.map"
+    "main.css": "/react_vetter/static/css/main.95390edd.css",
+    "main.js": "/react_vetter/static/js/main.2b6de345.js",
+    "static/media/visual_news.jpg": "/react_vetter/static/media/visual_news.497ea834f9ff12442b3f.jpg",
+    "static/media/visual_case.jpg": "/react_vetter/static/media/visual_case.5367a85345a4cdb6c402.jpg",
+    "static/media/visual_board.jpg": "/react_vetter/static/media/visual_board.9992edd839681d2b924d.jpg",
+    "static/media/visual_report.jpg": "/react_vetter/static/media/visual_report.785c13cbf711626dbe28.jpg",
+    "static/media/visual_tip.jpg": "/react_vetter/static/media/visual_tip.98924c1943fb8dc2d5d7.jpg",
+    "static/media/txt_journal.png": "/react_vetter/static/media/txt_journal.86dcdec16274334e2e3c.png",
+    "static/media/banner_right.jpg": "/react_vetter/static/media/banner_right.1c14be8aeaa7858c59f9.jpg",
+    "static/media/ev_sample2.jpg": "/react_vetter/static/media/ev_sample2.35e50920204682a75a14.jpg",
+    "static/media/profile_img.jpg": "/react_vetter/static/media/profile_img.2c93a73dc60be08f1c7d.jpg",
+    "static/media/main_banner.jpg": "/react_vetter/static/media/main_banner.2354d26716dc5b4d46c1.jpg",
+    "static/media/doctor_sample1.png": "/react_vetter/static/media/doctor_sample1.e8732f6362f284ff0f8c.png",
+    "static/media/banner_topic.jpg": "/react_vetter/static/media/banner_topic.37ec051a5969adf3adb2.jpg",
+    "static/media/dog_sample.jpg": "/react_vetter/static/media/dog_sample.6079cc025b15704fbef4.jpg",
+    "static/media/ico_common.png": "/react_vetter/static/media/ico_common.a9ade53b6a050cc1f61a.png",
+    "index.html": "/react_vetter/index.html",
+    "main.95390edd.css.map": "/react_vetter/static/css/main.95390edd.css.map",
+    "main.2b6de345.js.map": "/react_vetter/static/js/main.2b6de345.js.map"
   },
   "entrypoints": [
     "static/css/main.95390edd.css",
-    "static/js/main.eb0558de.js"
+    "static/js/main.2b6de345.js"
   ]
 }
