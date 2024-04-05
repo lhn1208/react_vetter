@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_vetter/static/css/main.95390edd.css",
-    "main.js": "/react_vetter/static/js/main.2b6de345.js",
+    "main.js": "/react_vetter/static/js/main.3c9c2fc2.js",
     "static/media/visual_news.jpg": "/react_vetter/static/media/visual_news.497ea834f9ff12442b3f.jpg",
     "static/media/visual_case.jpg": "/react_vetter/static/media/visual_case.5367a85345a4cdb6c402.jpg",
     "static/media/visual_board.jpg": "/react_vetter/static/media/visual_board.9992edd839681d2b924d.jpg",
@@ -10,6 +10,9 @@
     "static/media/txt_journal.png": "/react_vetter/static/media/txt_journal.86dcdec16274334e2e3c.png",
     "static/media/banner_right.jpg": "/react_vetter/static/media/banner_right.1c14be8aeaa7858c59f9.jpg",
     "static/media/ev_sample2.jpg": "/react_vetter/static/media/ev_sample2.35e50920204682a75a14.jpg",
+    "static/media/thum_live_w277.jpg": "/react_vetter/static/media/thum_live_w277.fa9d66346b1585a8ae27.jpg",
+    "static/media/thum_w277.jpg": "/react_vetter/static/media/thum_w277.9b76b3445c4b019831f1.jpg",
+    "static/media/img_recomm.jpg": "/react_vetter/static/media/img_recomm.c0fe7c392ffdf8c0750f.jpg",
     "static/media/profile_img.jpg": "/react_vetter/static/media/profile_img.2c93a73dc60be08f1c7d.jpg",
     "static/media/main_banner.jpg": "/react_vetter/static/media/main_banner.2354d26716dc5b4d46c1.jpg",
     "static/media/doctor_sample1.png": "/react_vetter/static/media/doctor_sample1.e8732f6362f284ff0f8c.png",
@@ -18,10 +21,10 @@
     "static/media/ico_common.png": "/react_vetter/static/media/ico_common.a9ade53b6a050cc1f61a.png",
     "index.html": "/react_vetter/index.html",
     "main.95390edd.css.map": "/react_vetter/static/css/main.95390edd.css.map",
-    "main.2b6de345.js.map": "/react_vetter/static/js/main.2b6de345.js.map"
+    "main.3c9c2fc2.js.map": "/react_vetter/static/js/main.3c9c2fc2.js.map"
   },
   "entrypoints": [
     "static/css/main.95390edd.css",
-    "static/js/main.2b6de345.js"
+    "static/js/main.3c9c2fc2.js"
   ]
 }
